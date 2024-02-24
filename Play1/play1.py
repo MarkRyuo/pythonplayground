@@ -28,3 +28,5 @@
 # modulus %  para makuha ang remainder  
 # exponent ** eto yung raise parang pow 
 
+
+# Todo simple calculator 
