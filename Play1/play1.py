@@ -33,11 +33,11 @@
 
 remainder = "This is Addition" ;
 print(remainder) ;
-x = input("Input a Number: ") ;
-y = input("Enter a Number: ")  ;
+x = int(input("Input a Number: ")) ;
+y = int(input("Enter a Number: "))  ;
 
-int(x) ;
 
-z = x + int(y)  ;
+
+z = x + y  ;
 
 print("The Answer is : ", z) ;
