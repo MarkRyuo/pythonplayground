@@ -36,6 +36,6 @@ print(remainder) ;
 x = input("Input a Number: ") ;
 y = input("Enter a Number: ")  ;
 
-z = x + y 
+z = int(x) + int(y)  ;
 
 print("The Answer is : ", z) ;
