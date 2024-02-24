@@ -7,6 +7,6 @@
 # print("Hello I'm ", userName) ;
 
 userName = input("Enter your name:") ;
-print(userName) ;
+print("Hello ",userName, " GoodMorning") ;
 
 
