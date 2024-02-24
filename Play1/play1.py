@@ -16,5 +16,7 @@
 
 # todo 
 
-#str() int() float() 
+#todo str() int() float() 
+
+
 
