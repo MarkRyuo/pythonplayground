@@ -1,7 +1,7 @@
 # print("Hello World") ;
 
 # userName = "Jhon Mark " ; # string
-# age = 21 ; # 
+# age = 21 ; # integer
 # money = 50.00 ; # Decimal 
 
 # print("Hello I'm ", userName) ;
