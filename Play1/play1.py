@@ -18,5 +18,6 @@
 
 #todo str() int() float() 
 
+# todo Arithmetic + - * /  //  % ** 
 
 
