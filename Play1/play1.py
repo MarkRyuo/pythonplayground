@@ -30,3 +30,8 @@
 
 
 # Todo simple calculator 
+
+remainder = "This is Addition" ;
+print(remainder) ;
+x = input("Input a Number: ") ;
+y = input("Enter a Number: ")  ;
