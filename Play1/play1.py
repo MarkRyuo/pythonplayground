@@ -6,7 +6,10 @@
 
 # print("Hello I'm ", userName) ;
 
-userName = input("Enter your name:") ;
-print("Hello ",userName, " GoodMorning") ;
+# userName = input("Enter your name:") ;
+# print("Hello ",userName, " GoodMorning") ;
 
+firstName = "Jhon Mark" ;
+age = 21 ;
 
+print(firstName, str(age)) ;
