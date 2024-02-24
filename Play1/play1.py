@@ -9,7 +9,12 @@
 # userName = input("Enter your name:") ;
 # print("Hello ",userName, " GoodMorning") ;
 
-firstName = "Jhon Mark" ;
-age = 21 ;
+# firstName = "Jhon Mark" ;
+# age = 21 ;
 
-print(firstName, str(age)) ;
+# print(firstName, str(age)) ;
+
+# todo 
+
+#str() int() float() 
+
