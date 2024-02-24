@@ -35,3 +35,7 @@ remainder = "This is Addition" ;
 print(remainder) ;
 x = input("Input a Number: ") ;
 y = input("Enter a Number: ")  ;
+
+z = x + y 
+
+print("The Answer is : ", z) ;
