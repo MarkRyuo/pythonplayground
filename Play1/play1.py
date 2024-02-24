@@ -20,4 +20,11 @@
 
 # todo Arithmetic + - * /  //  % ** 
 
+# addition + 
+# subtraction - 
+# multiplacation *
+# division / 
+# floor division //  example 1.5 gagawin neto ay 1 lang  
+# modulus %  para makuha ang remainder  
+# exponent ** eto yung raise parang pow 
 
