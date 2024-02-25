@@ -14,9 +14,8 @@
 
 # print(firstName, str(age)) ;
 
-# todo 
 
-#todo str("") int(21) float(2.1) 
+#todo str("") int(21) float(2.1) | in js is like to Converter 
 
 # todo Arithmetic + - * /  //  % ** 
 
