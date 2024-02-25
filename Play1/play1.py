@@ -31,13 +31,13 @@
 
 # Todo simple calculator 
 
-remainder = "This is Addition" ;
-print(remainder) ;
-x = int(input("Input a Number: ")) ;
-y = int(input("Enter a Number: "))  ;
+# remainder = "This is Addition" ;
+# print(remainder) ;
+# x = int(input("Input a Number: ")) ;
+# y = int(input("Enter a Number: "))  ;
 
 
 
-z = x + y  ;
+# z = x + y  ;
 
-print("The Answer is : ", z) ;
+# print("The Answer is : ", z) ;
