@@ -48,7 +48,7 @@ userName  = str(input("Enter your Username: ")) ;
 passWord = str(input("Enter your password: ")) ;
 age = ["20", "21", "22","23"] ; # This is list 
 
-print("Ohayo! ", userName, " Your Age is ", age[1]) ;
+print("Ohayo! ", userName, " Your Age is ", age[-4]) ;
 
 # Todo In the list 
 #Varible   0     1     2    3  + Index
