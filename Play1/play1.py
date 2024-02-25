@@ -53,3 +53,6 @@ print("Ohayo! ", userName, " Your Age is ", age[-3]) ;
 #Varible   0     1     2    3  + Index
 #Variable  -4    -3   -2   -1  - Index 
 # age = ["20", "21", "22","23"] 
+
+add = int(age[2]) + int(age[3]) ;
+print(add) ; 
