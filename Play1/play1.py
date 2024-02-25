@@ -46,6 +46,7 @@
 
 userName  = str(input("Enter your Username: ")) ;
 passWord = str(input("Enter your password: ")) ;
+# age = ["20", "21", "22","23"] ; # This is list 
 age = int(["20", "21", "22","23"]) ; # This is list 
 
 print("Ohayo! ", userName, " Your Age is ", age[-3]) ;
