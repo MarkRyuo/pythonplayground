@@ -44,6 +44,6 @@
 
 
 
-userName  = input("Enter your Username: ") ;
-passWord = input("Enter your password: ") ;
+userName  = str(input("Enter your Username: ")) ;
+passWord = str(input("Enter your password: ")) ;
 
