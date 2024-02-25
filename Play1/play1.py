@@ -16,7 +16,7 @@
 
 # todo 
 
-#todo str() int() float() 
+#todo str("") int(21) float(2.1) 
 
 # todo Arithmetic + - * /  //  % ** 
 
