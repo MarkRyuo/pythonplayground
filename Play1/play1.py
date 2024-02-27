@@ -64,4 +64,7 @@ x = int(input("Enter a Number: ")) ;
 y = int(input("Enter a Number: ")) ;
 
 z = x + y ;
-print("The the answer is ", z )
+print("The the answer is ", z ) ;
+
+num = ["0", "1", "2", "3", "4", "5"] ;
+print("Choose a number here : 0, 1, 2, 3, 4, 5") ;
