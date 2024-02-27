@@ -60,5 +60,7 @@
 # todo 
 
 
-x = input("Enter a Number: ") ;
+x = int(input("Enter a Number: ")) ;
 y = input("Enter a Number: ") ;
+
+z = x + y ;
