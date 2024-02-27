@@ -61,6 +61,6 @@
 
 
 x = int(input("Enter a Number: ")) ;
-y = input("Enter a Number: ") ;
+y = int(input("Enter a Number: ")) ;
 
 z = x + y ;
