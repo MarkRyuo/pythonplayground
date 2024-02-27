@@ -43,16 +43,22 @@
 
 
 
-userName  = str(input("Enter your Username: ")) ;
-passWord = str(input("Enter your password: ")) ;
-age = ["20", "21", "22","23"] ; # This is list 
+# userName  = str(input("Enter your Username: ")) ;
+# passWord = str(input("Enter your password: ")) ;
+# age = ["20", "21", "22","23"] ; # This is list 
 
-print("Ohayo! ", userName, " Your Age is ", age[-3]) ;
+# print("Ohayo! ", userName, " Your Age is ", age[-3]) ;
 
-# Todo In the list 
-#Varible   0     1     2    3  + Index
-#Variable  -4    -3   -2   -1  - Index 
-# age = ["20", "21", "22","23"] 
+# # Todo In the list 
+# #Varible   0     1     2    3  + Index
+# #Variable  -4    -3   -2   -1  - Index 
+# # age = ["20", "21", "22","23"] 
 
-add = int(age[2]) + int(age[3]) ; # Nag declare tayo ng bagong variable para ma convert to int or Number 
-print(add) ; 
+# add = int(age[2]) + int(age[3]) ; # Nag declare tayo ng bagong variable para ma convert to int or Number 
+# print(add) ; 
+
+# todo 
+
+
+x = input("Enter a Number: ") ;
+y = input("Enter a Number: ") ;
