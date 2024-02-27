@@ -68,3 +68,5 @@ print("The the answer is ", z ) ;
 
 num = ["0", "1", "2", "3", "4", "5"] ;
 print("Choose a number here : 0, 1, 2, 3, 4, 5") ;
+
+x = input("Enter you Number choosen! : ") ;
