@@ -76,7 +76,7 @@
 
 userName = ["Nicole", "Sophia", "Samantha", "tr. Minari", "Angel"] ;
 
-user = [0] ;
+user = userName[0] ;
 
 if (user == userName[0]):
   print("Your name is ",userName[0]) ;
