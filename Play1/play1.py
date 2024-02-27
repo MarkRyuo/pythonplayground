@@ -60,10 +60,15 @@
 # todo 
 
 
-x = int(input("Enter a Number: ")) ;
-y = int(input("Enter a Number: ")) ;
+# x = int(input("Enter a Number: ")) ;
+# y = int(input("Enter a Number: ")) ;
 
-z = x + y ;
-print("The the answer is ", z ) ;
+# z = x + y ;
+# print("The the answer is ", z ) ;
 
 num = ["0", "1", "2", "3", "4", "5"] ;
+
+
+x = num[0] ;
+
+print(x)
