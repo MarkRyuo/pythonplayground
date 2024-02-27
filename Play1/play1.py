@@ -66,9 +66,19 @@
 # z = x + y ;
 # print("The the answer is ", z ) ;
 
-num = ["0", "1", "2", "3", "4", "5"] ;
+# num = ["0", "1", "2", "3", "4", "5"] ;
 
 
-x = num[0] ;
+# x = num[4] ;
 
-print(x)
+# print(x)
+
+
+userName = ["Nicole", "Sophia", "Samantha", "tr. Minari", "Angel"] ;
+
+user = [0] ;
+
+if (user == userName[0]):
+  print("Your name is ",userName[0]) ;
+else :
+  print("Hmmm! ")
