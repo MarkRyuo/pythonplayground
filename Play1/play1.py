@@ -74,11 +74,11 @@
 # print(x)
 
 
-userName = ["Nicole", "Sophia", "Samantha", "tr. Minari", "Angel"] ;
+# userName = ["Nicole", "Sophia", "Samantha", "tr. Minari", "Angel"] ;
 
-user = userName[0] ;
+# user = userName[0] ;
 
-if (user == userName[0]):
-  print("Your name is ",userName[0]) ;
-else :
-  print("Hmmm! ")
+# if (user == userName[0]):
+#   print("Your name is ",userName[0]) ;
+# else :
+#   print("Hmmm! ")
