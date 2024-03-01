@@ -104,8 +104,16 @@
 
 # Todo in 02/03/24 Day 3 
 
-userName = input("Enter your username: ") ;
-age = 20 ; 
-age += 1 ;
+# user input 
 
-print("Hello, "+ userName + " your age is " + str(age) ) ;
+# userName = input("Enter your username: ") ;
+# age = 20 ; 
+# age += 1 ;
+
+# print("Hello, "+ userName + " your age is " + str(age) ) ; 
+
+# array 
+
+things = ["Bag", "Cellphone", "Pen", "Notebook", "Laptop"] ;
+
+print("Your thing is " + things[0] + " and " + things[4]) ;
