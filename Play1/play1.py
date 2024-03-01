@@ -97,6 +97,6 @@
 
 userName = input("Enter you name : ")
 
-lastName = "Malupa" ;
+credential = ["Malupa", 21] ; 
 
-print("Your name is ", userName, lastName) ; 
+print("Your name is ", userName, credential[0], "and your age is ", credential[1]) ; 
