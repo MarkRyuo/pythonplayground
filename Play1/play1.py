@@ -87,9 +87,16 @@
 
 # index+
 #     0   1   2   3   4
-x = [10, 20, 30, 40, 50] ;
+# x = [10, 20, 30, 40, 50] ;
 
 # total = x[2] + x[4] ; 
 
-print("The answer is ", total) ;
+# print("The answer is ", total) ;
 
+# todo inserting a text using input function 
+
+userName = input("Enter you name : ")
+
+lastName = "Malupa" ;
+
+print("Your name is ", userName, lastName) ;
