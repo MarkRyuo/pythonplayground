@@ -105,6 +105,6 @@
 # Todo in 02/03/24 Day 3 
 
 userName = input("Enter your username: ") ;
+age = 20 ; 
 
-
-print("Hello, ", userName)
+print("Hello, ", userName) ;
