@@ -100,3 +100,8 @@
 # credential = ["Malupa", 21] ; 
 
 # print("Your name is ", userName, credential[0], "and your age is ", credential[1]) ; 
+
+
+# Todo in 02/03/24 Day 3 
+
+userName = input("Enter your username: ") ;
