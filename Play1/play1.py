@@ -82,3 +82,9 @@
 #   print("Your name is ",userName[0]) ;
 # else :
 #   print("Hmmm! ")
+
+x = 4 
+y = 6 
+
+z = x + y 
+print("The answer is ",z)
