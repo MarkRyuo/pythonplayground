@@ -89,6 +89,7 @@
 #     0   1   2   3   4
 x = [10, 20, 30, 40, 50] ;
 
-total = x[2] + x[4] ;
+# total = x[2] + x[4] ; 
 
 print("The answer is ", total) ;
+
