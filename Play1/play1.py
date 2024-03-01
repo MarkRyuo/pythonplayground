@@ -95,8 +95,8 @@
 
 # todo inserting a text using input function 
 
-userName = input("Enter you name : ")
+# userName = input("Enter you name : ")
 
-credential = ["Malupa", 21] ; 
+# credential = ["Malupa", 21] ; 
 
-print("Your name is ", userName, credential[0], "and your age is ", credential[1]) ; 
+# print("Your name is ", userName, credential[0], "and your age is ", credential[1]) ; 
