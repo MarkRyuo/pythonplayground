@@ -121,4 +121,4 @@
 
 # todo array2 
 
-people = ["John", "Jhon", "Jan"]
+people = ["John", "Jhon", "Jan", "Jn"] ;
