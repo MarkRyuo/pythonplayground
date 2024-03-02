@@ -114,6 +114,8 @@
 
 # array 
 
-things = ["Bag", "Cellphone", "Pen", "Notebook", "Laptop"] ;
+# things = ["Bag", "Cellphone", "Pen", "Notebook", "Laptop"] ;
 
-print("Your thing is " + things[0] + " and " + things[4]) ;
+# print("Your thing is " + things[0] + " and " + things[4]) ;
+
+
