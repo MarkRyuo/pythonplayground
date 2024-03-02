@@ -123,9 +123,7 @@
 
 people_list = ["John", "Jhon", "Jan", "Jn"] ;
 
-people = people_list[0] ;
-
-if people[0] :
-  print("Your " + people_list[0]) ;
+if people_list[2] :
+  print("Your " + people_list[2]) ;
 else : 
   print("Its nothing here!") ;
