@@ -121,4 +121,9 @@
 
 # todo array2 
 
-people = ["John", "Jhon", "Jan", "Jn"] ;
+people_list = ["John", "Jhon", "Jan", "Jn"] ;
+
+people = people_list[0] ;
+
+if people[0] :
+  print("Your " + people_list[0]) ;
