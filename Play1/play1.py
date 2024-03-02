@@ -123,7 +123,7 @@
 
 people_list = ["John", "Jhon", "Jan", "Jn"] ;
 
-if people_list[2] :
-  print("Your " + people_list[2]) ;
+if people_list[1] :
+  print("Your " + people_list[1]) ;
 else : 
   print("Its nothing here!") ;
