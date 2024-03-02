@@ -119,3 +119,6 @@
 # print("Your thing is " + things[0] + " and " + things[4]) ;
 
 
+# todo array2 
+
+people = ["John", "Jhon", "Jan"]
