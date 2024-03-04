@@ -136,7 +136,7 @@ money = 20.00 # float
 online = True # Boolean 
 
 
-print(f"Your name is : {name},") ;
+print(f"Your name is : {name}") ;
 print(f"Your age is : {age} years old") ;
-print(f"Your money is only ₱{money} only") ;
+print(f"Your money is ₱{money} only") ;
 print (f"Are you online : {online}") ;
