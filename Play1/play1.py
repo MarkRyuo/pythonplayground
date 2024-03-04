@@ -139,3 +139,4 @@ online = True # Boolean
 print(f"Your name is : {name},") ;
 print(f"Your age is : {age} years old") ;
 print(f"Your money is only ₱{money} only") ;
+print (f"Are you online : {online}") ;
