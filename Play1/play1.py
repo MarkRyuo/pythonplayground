@@ -155,5 +155,7 @@ user_Name = input("Enter your name: ") ;
 age = int(input("Enter your age: ")) ;
 gpa  = float(input("Enter your GPA: ")) ;
 
+print(f"Hello {user_Name}, Are you {age} you are collage right ang your gpa is {gpa} ") ; # f - f string 
+
 
 
