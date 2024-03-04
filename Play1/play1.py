@@ -144,9 +144,15 @@
 # age = "21" ;
 # age = int(age) ;
 
-# todo Conversion 
-age = "21" ;
+# todo type Casting || Conversion 
+# age = "21" ;
 
-print(type(int(age))) ;
+# print(type(int(age))) ;
+
+# todo type Casting && User Input || Input 
+
+user_Name = input("Enter your name: ") ;
+age = int(input("Enter your age: ")) ;
+
 
 
