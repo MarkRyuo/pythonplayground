@@ -145,8 +145,7 @@
 # age = int(age) ;
 
 age = "21" ;
-age = int(age) ;
 
-print(type(age)) ;
+print(type(int(age))) ;
 
 
