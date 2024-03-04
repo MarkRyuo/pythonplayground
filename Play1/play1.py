@@ -128,3 +128,12 @@
 #   print("Its nothing here!") ;
 
 
+# Todo 
+
+name = "Jhon Mark " # String 
+age = 19 # integer
+money = 20.00 # float 
+online = True # Boolean 
+
+
+print
