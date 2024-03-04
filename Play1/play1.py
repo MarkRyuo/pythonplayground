@@ -141,14 +141,12 @@
 # print(f"Your money is ₱{money} only") ;
 # print (f"Are you online : {online}") ;
 
-name = "Jhon Mark " # String 
-age = 19 # integer
-money = 20.00 # float 
-online = True # Boolean 
+# age = "21" ;
+# age = int(age) ;
 
+age = "21" ;
+age = int(age) ;
 
-print(f"Your name is : {name}") ;
-print(f"Your age is : {age} years old") ;
-print(f"Your money is ₱{money} only") ;
-print (f"Are you online : {online}") ;
+print(type(age)) ;
+
 
