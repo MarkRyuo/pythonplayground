@@ -160,4 +160,6 @@
 
 
 age = int(input("Enter Your age: ")) ;
-gwp = int(input(()))
+gwp = int(input(("Enter your gwp"))) ;
+
+
