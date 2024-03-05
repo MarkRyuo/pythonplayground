@@ -161,7 +161,7 @@
 
 age = int(input("Enter Your age: ")) ;
 gwp = float(input(("Enter your gwp: "))) ;
-student = bool(input("Are you student: Enter yes if student & Enter if not"))
+student = bool(input("Are you student: Enter yes if student & Enter if not : "))
 
 print(f"Your age is {age} and your gwp is {gwp}") ;
 print(f"Are you a student : {student}")
