@@ -162,4 +162,4 @@
 age = int(input("Enter Your age: ")) ;
 gwp = int(input(("Enter your gwp"))) ;
 
-print(f"Your age is {age} and your gwp is {gwp}")
+print(f"Your age is {age} and your gwp is {gwp}") ;
