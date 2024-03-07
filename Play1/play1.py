@@ -173,3 +173,9 @@
 
 
 list = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
+
+listOf = list[""] ;
+
+if listOf[0] : {
+  print(f"Hello {list[0]}")
+}
