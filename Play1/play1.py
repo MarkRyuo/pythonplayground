@@ -172,13 +172,13 @@
 # Todo Array 
 
 
-list = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
+# list = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
 
-listOf = list[3] ;
+# listOf = list[3] ;
 
-if listOf[0] : {
-  print(f"Hello {list[0]}")
-}
-else : {
-  print(f"{listOf} not found")
-}
+# if listOf[0] : {
+#   print(f"Hello {list[0]}")
+# }
+# else : {
+#   print(f"{listOf} not found")
+# }
