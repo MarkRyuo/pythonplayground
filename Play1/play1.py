@@ -182,3 +182,9 @@
 # else : {
 #   print(f"{listOf} not found")
 # }
+
+# Todo Simple Calculator 
+
+
+num1 = int(input("Enter the Number")) ;
+num2 = int(input("Enter the Number")) ;
