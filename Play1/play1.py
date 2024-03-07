@@ -174,8 +174,11 @@
 
 list = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
 
-listOf = list[""] ;
+listOf = list[3] ;
 
 if listOf[0] : {
   print(f"Hello {list[0]}")
+}
+else : {
+  print(f"{listOf} not found")
 }
