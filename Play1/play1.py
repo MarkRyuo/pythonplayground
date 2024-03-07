@@ -170,3 +170,6 @@
 
 
 # Todo Array 
+
+
+list = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
