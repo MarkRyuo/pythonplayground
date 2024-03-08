@@ -215,7 +215,7 @@ quantity = int(input("How many? "))
 
 total = quantity * all_Price 
 
-print(f"You want {quantity} of {choose} total of ₱{total}")
+print(f"You want {quantity} of {choose} total of ₱{total} pesos")
 
 
 
