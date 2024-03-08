@@ -197,5 +197,6 @@
 # Todo Ordering System
  
 user = input("Enter your name: ") 
+print(f"Hello {user} What is your order?")
 
 order_Food = "Afritada, Spaghetti, Bacon, Bbq and Adobo" 
