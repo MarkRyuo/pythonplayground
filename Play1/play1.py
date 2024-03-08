@@ -200,4 +200,9 @@ user = input("Enter your name: ")
 print(f"Hello {user} What is your order?\n")
 
 list_Food = "Afritada, Spaghetti, Bacon, Bbq and Adobo" 
-print(f"This is the list of the food : {list_Food}")
+print(f"This is the list of the food : {list_Food} \n") 
+
+choose = input("What is your order: ")
+
+
+
