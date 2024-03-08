@@ -197,6 +197,6 @@
 # Todo Ordering System
  
 user = input("Enter your name: ") 
-print(f"Hello {user} What is your order?")
+print(f"Hello {user} What is your order?\n")
 
-order_Food = "Afritada, Spaghetti, Bacon, Bbq and Adobo" 
+list_Food = "Afritada, Spaghetti, Bacon, Bbq and Adobo" 
