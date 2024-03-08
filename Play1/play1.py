@@ -203,6 +203,7 @@ list_Food = "Afritada, Spaghetti, Bacon, Bbq and Adobo"
 print(f"This is the list of the food : {list_Food} \n") 
 
 choose = input("What is your order: ")
+quantity = int(input("How many? "))
 
 
 
