@@ -253,11 +253,16 @@ print(F"Hello {user}, This is the list of product: {product_List}\n")
 product_use = input("What is your product: ") 
 
 if product_use == "Laptop" :
-  print("This is yours") 
+  print(f"{product_use} This is yours") 
 
 elif product_use == "Computer" :
-  print("Computer? This is yours") 
+  print(f"{product_use} This is yours")
 
+elif product_use == "Magic Pen" :
+  print(f"{product_use} This is yours")
+
+elif product_use == "CellPhone" :
+  print(f"{product_use} This is yours")
 
 
 
