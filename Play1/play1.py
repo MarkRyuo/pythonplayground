@@ -231,19 +231,24 @@
 # print(f"{user_Name}, This is the menu : \n 1.Footlong \n 2.Nuggets \n 3.Hatdog \n 4.Siomai ") ;
 
 
-user_Name = "Jhon Mark" 
-user = input("Enter Your Name: ")
+# todo if else, Nested if and Else if (elif)
 
-if user_Name == user : 
-  user_Identity = input("Are you real Jhon Mark: ")
-  if user_Identity == "Yes" :
-    print("\n Are you real Jhon Mark! Sorry fo waiting please come in")
-  else : 
-    print("Dont come in") 
-else : 
-  print("Huh")
+# user_Name = "Jhon Mark" 
+# user = input("Enter Your Name: ")
 
+# if user_Name == user : 
+#   user_Identity = input("Are you real Jhon Mark: ")
+#   if user_Identity == "Yes" :
+#     print("\nAre you real Jhon Mark! Sorry fo waiting please come in")
+#   else : 
+#     print("Dont come in") 
+# else : 
+#   print("Huh")
 
+user = input("Enter your name: ")
+product_List = "Laptop, Computer, Magic pen, CellPhone" 
+
+print(F"Hello")
 
 
 
