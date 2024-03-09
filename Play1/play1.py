@@ -226,7 +226,7 @@ else :
   print(f"Your not!")
   exit()  # For Exiting 
 
-print(f"Welcome, {name} to the Arc Store ") 
+print(f"Welcome, {user_Name} to the Arc Store ") 
 
 
 
