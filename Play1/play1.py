@@ -217,7 +217,15 @@
 
 # print(f"You want {quantity} of {choose} total of ₱{total} pesos")
 
-name = input("Hello What is your name : ")
+user_Name = input("Enter your username: ") 
+user_Pass = input("Enter your password: ") 
+
+if user_Name == "Jhon Mark" :
+  print(f"")
+
+print(f"Welcome, {name} to the Arc Store ")
+
+
 
 
 
