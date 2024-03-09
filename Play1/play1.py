@@ -248,7 +248,9 @@
 user = input("Enter your name: ")
 product_List = "Laptop, Computer, Magic pen, CellPhone" 
 
-print(F"Hello")
+print(F"Hello {user}, This is the list of product: {product_List}")
+
+
 
 
 
