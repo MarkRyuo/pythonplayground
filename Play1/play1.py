@@ -226,7 +226,10 @@ else :
   print("Your not!")
   exit()  # For Exiting 
 
-print(f"Welcome, {user_Name} to the Arc Store ") 
+print(f"Welcome, {user_Name} to the Arc Store \n")
+
+print(f"{user_Name}, This is the menu of : \n 1.Footlong \n 2.Nuggets \n 3. Hatdog \n 4.Siomai ") ;
+
 
 
 
