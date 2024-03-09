@@ -217,18 +217,18 @@
 
 # print(f"You want {quantity} of {choose} total of ₱{total} pesos")
 
-user_Name = input("Enter your username: ") 
-user_Pass = input("Enter your password: ") 
+# user_Name = input("Enter your username: ") 
+# user_Pass = input("Enter your password: ") 
 
-if user_Pass == "Arc" :
-  print(f"Welcome, {user_Pass}")
-else :
-  print("Your not!")
-  exit()  # For Exiting 
+# if user_Pass == "Arc" :
+#   print(f"Welcome, {user_Pass}")
+# else :
+#   print("Your not!")
+#   exit()  # For Exiting 
 
-print(f"Welcome, {user_Name} to the Arc Store \n")
+# print(f"Welcome, {user_Name} to the Arc Store \n")
 
-print(f"{user_Name}, This is the menu : \n 1.Footlong \n 2.Nuggets \n 3.Hatdog \n 4.Siomai ") ;
+# print(f"{user_Name}, This is the menu : \n 1.Footlong \n 2.Nuggets \n 3.Hatdog \n 4.Siomai ") ;
 
 
 
