@@ -223,10 +223,13 @@ user_Pass = input("Enter your password: ")
 if user_Pass == "Arc" :
   print(f"Welcome, {user_Pass}")
 else :
-  print(f"Your not!")
+  print("Your not!")
   exit()  # For Exiting 
 
 print(f"Welcome, {user_Name} to the Arc Store ") 
+
+
+
 
 
 
