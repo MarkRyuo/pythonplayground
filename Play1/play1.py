@@ -240,6 +240,8 @@ if user == "Jhon Mark" :
     print("Are you real Jhon Mark! Sorry fo waiting please come in")
   else : 
     print("Dont come in") 
+else : 
+  print("Huh")
 
 
 
