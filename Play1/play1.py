@@ -220,10 +220,12 @@
 user_Name = input("Enter your username: ") 
 user_Pass = input("Enter your password: ") 
 
-if user_Name == "Jhon Mark" :
-  print(f"")
+if user_Pass == "Arc" :
+  print(f"Welcome, {user_Pass}")
+else :
+  print(f"Your not!")
 
-print(f"Welcome, {name} to the Arc Store ")
+# print(f"Welcome, {name} to the Arc Store ")
 
 
 
