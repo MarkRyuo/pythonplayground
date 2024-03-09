@@ -194,28 +194,28 @@
 # print(f"The Answer is : {z}")
 
 
-# Todo Ordering System
+# Todo Food Ordering System
  
-user = input("Enter your name: ") 
-print(f"Hello {user} What is your order?\n")
+# user = input("Enter your name: ") 
+# print(f"Hello {user} What is your order?\n")
 
-list_Food = "Afritada, Spaghetti, Bacon, Bbq and Adobo" 
-print(f"This is the list of the food : {list_Food} \n") 
+# list_Food = "Afritada, Spaghetti, Bacon, Bbq and Adobo" 
+# print(f"This is the list of the food : {list_Food} \n") 
 
-# afritada = 45 
-# spaghetti = 30 
-# bacon = 40 
-# bbq = 20
-# adobo = 35 
+# # afritada = 45 
+# # spaghetti = 30 
+# # bacon = 40 
+# # bbq = 20
+# # adobo = 35 
 
-all_Price = 30 
+# all_Price = 30 
 
-choose = input("What is your order: ")
-quantity = int(input("How many? "))
+# choose = input("What is your order: ")
+# quantity = int(input("How many? "))
 
-total = quantity * all_Price 
+# total = quantity * all_Price 
 
-print(f"You want {quantity} of {choose} total of ₱{total} pesos")
+# print(f"You want {quantity} of {choose} total of ₱{total} pesos")
 
 
 
