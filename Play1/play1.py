@@ -217,7 +217,7 @@
 
 # print(f"You want {quantity} of {choose} total of ₱{total} pesos")
 
-
+name = input("Hello What is your name : ")
 
 
 
