@@ -246,10 +246,11 @@
 #   print("Huh")
 
 user = input("Enter your name: ")
-product_List = "Laptop, Computer, Magic pen, CellPhone" 
+product_List = "Laptop, Computer, Magic pen, CellPhone\n"  
 
 print(F"Hello {user}, This is the list of product: {product_List}")
 
+product_use = input("What is your product: ") 
 
 
 
