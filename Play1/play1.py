@@ -232,15 +232,14 @@
 
 
 user_Name = "Jhon Mark" 
-user = input("Are you Jhon Mark?: ")
+user = input("Enter Your Name: ")
 
 if user == "Jhon Mark" : 
   user_Identity = input("Are you real Jhon Mark")
   if user_Identity == "Yes" :
     print("Are you real Jhon Mark! Sorry fo waiting please come in")
   else : 
-    print("Dont come in")
-else :
+    print("Dont come in") 
 
 
 
