@@ -277,7 +277,8 @@ question2 = int(input("How many days? ")) # question 2
 
 print(f"\n Thank you for fill up: {question1} {user_Name} ")
 
-if question1 == "Mason" :
+# Todo Nested If
+if question1 == "Mason" : 
   mason = 700
   if "Mason" : 
     totalOfMason = mason * question2 
