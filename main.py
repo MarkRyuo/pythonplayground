@@ -6,3 +6,6 @@ user_Name = input("Enter your username: ")
 
 if user_Name == "Bob" and user_Name == "Elise" :
   print("Dont Come In") 
+
+else :
+  print("Please come in") 
