@@ -273,7 +273,7 @@ user_Identity = "Mason, Labor, Carpenter" # list of work
 print(f"What are you here: {user_Identity} ") 
 
 question1 = input("What are you? ") # question 1 
-question2 = int(input("How many days? ")) # question 2 
+daysOfWork = int(input("How many days? ")) # Days of Work  
 
 print(f"\n Thank you for fill up: {question1} {user_Name} ")
 
@@ -286,7 +286,7 @@ if question1 == "Mason" :
 elif question1 == "Labor" :
   labor = 450 
   if "Labor" :
-    totalOfLabor = Labor 
+    totalOfLabor = labor * question2 
 
 else :
   print("H")
