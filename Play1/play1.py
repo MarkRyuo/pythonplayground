@@ -268,7 +268,11 @@
 #   print(f"{product_use}, is not on the List")
 
 user_Name = input("What's your name? : ") 
-user_Identity = "Mason, Labor, Carpenter" 
+user_Identity = "Mason, Labor, Carpenter"
+
+print(f"What are you here: {user_Identity} ")
+
+question1 = input("What are you? ")
 
 
 
