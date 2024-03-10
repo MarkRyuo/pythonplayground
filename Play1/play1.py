@@ -278,9 +278,14 @@ question2 = int(input("How many days? ")) # question 2
 print(f"\n Thank you for fill up: {question1} {user_Name} ")
 
 if question1 == "Mason" :
-  mason = 700 
-  total = mason * question2 
-  print(f"You are {question2} days and your total is ₱{total} pesos ")
+  mason = 700
+  if "Mason" : 
+    total = mason * question2 
+    print(f"You are {question2} days and your total is ₱{total} pesos ")
+elif question1 == "Labor" :
+
+else :
+  print("H")
   
   
 
