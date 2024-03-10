@@ -280,9 +280,12 @@ print(f"\n Thank you for fill up: {question1} {user_Name} ")
 if question1 == "Mason" :
   mason = 700
   if "Mason" : 
-    total = mason * question2 
-    print(f"You are {question2} days and your total is ₱{total} pesos ")
+    totalOfMason = mason * question2 
+    print(f"You are {question2} days and your total is ₱{totalOfMason} pesos ")
 elif question1 == "Labor" :
+  labor = 450 
+  if "Labor" :
+    totalOfLabor = Labor 
 
 else :
   print("H")
