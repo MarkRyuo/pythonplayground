@@ -267,12 +267,12 @@
 # else : 
 #   print(f"{product_use}, is not on the List")
 
-user_Name = input("What's your name? : ") 
-user_Identity = "Mason, Labor, Carpenter"
+user_Name = input("What's your name? : ")  # question for the name
+user_Identity = "Mason, Labor, Carpenter" # list of work
 
-print(f"What are you here: {user_Identity} ")
+print(f"What are you here: {user_Identity} ") 
 
-question1 = input("What are you? ")
+question1 = input("What are you? ") # question 1 
 
 
 
