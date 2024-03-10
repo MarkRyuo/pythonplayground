@@ -290,7 +290,7 @@ elif question1 == "Labor" :
     print(f"You are {daysOfWork} days and your total is ₱{totalOfLabor} pesos ")
 
 else :
-  print("H")
+  print("Not Defined")
   
   
 
