@@ -273,10 +273,13 @@ user_Identity = "Mason, Labor, Carpenter" # list of work
 print(f"What are you here: {user_Identity} ") 
 
 question1 = input("What are you? ") # question 1 
+question2 = input("How many days? ") # question 2 
 
 print(f"\n Thank you for fill up: {question1} {user_Name} ")
 
-if question1 == Mason :
+if question1 == "Mason" :
+  mason = 700 
+  
   
 
 
