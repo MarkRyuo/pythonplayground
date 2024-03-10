@@ -289,7 +289,7 @@ elif question1 == "Labor" :
     totalOfLabor = labor * daysOfWork 
     print(f"You are {daysOfWork} days and your total is ₱{totalOfLabor} pesos ")
 elif question1 == "Carpenter" :
-  carpenter = 450 
+  carpenter = 630
   if "Labor" :
     totalOfCarpenter = carpenter * daysOfWork 
     print(f"You are {daysOfWork} days and your total is ₱{totalOfCarpenter} pesos ")
