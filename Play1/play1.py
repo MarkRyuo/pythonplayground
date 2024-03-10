@@ -245,27 +245,27 @@
 # else : 
 #   print("Huh")
 
-user = input("Enter your name: ")
-product_List = "Laptop, Computer, Magic pen, CellPhone\n"  
+# user = input("Enter your name: ")
+# product_List = "Laptop, Computer, Magic pen, CellPhone\n"  
 
-print(F"Hello {user}, This is the list of product: {product_List}\n")
+# print(F"Hello {user}, This is the list of product: {product_List}\n")
 
-product_use = input("What is your product: ") 
+# product_use = input("What is your product: ") 
 
-if product_use == "Laptop" :
-  print(f"{product_use} This is yours") 
+# if product_use == "Laptop" :
+#   print(f"{product_use} This is yours") 
 
-elif product_use == "Computer" :
-  print(f"{product_use} This is yours")
+# elif product_use == "Computer" :
+#   print(f"{product_use} This is yours")
 
-elif product_use == "Magic Pen" :
-  print(f"{product_use} This is yours")
+# elif product_use == "Magic Pen" :
+#   print(f"{product_use} This is yours")
 
-elif product_use == "CellPhone" :
-  print(f"{product_use} This is yours")
+# elif product_use == "CellPhone" :
+#   print(f"{product_use} This is yours")
 
-else : 
-  print(f"{product_use}, is not on the List")
+# else : 
+#   print(f"{product_use}, is not on the List")
 
 
 
