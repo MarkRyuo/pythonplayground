@@ -29,10 +29,12 @@ user_Pass = input("Enter your password: ")
 
 if user_Name == "Lily" or user_Name == "Gilbert" or user_Name == "Bernard" :
     user_Identity = input("Are you Evil? (Yes/No) : ")
-    if user_Identity == "Yes" and user_Identity == "No" :
+    if user_Identity == "Yes" or user_Identity == "No" :
       user_Clarify = int(input("How many good ways do you have?: "))
       if user_Clarify < 3 :
        print(f"{user_Name}, You're not welcome here!!!!")
+      else :
+        print(f"{user_Name}, Sorry for mistake your good your welcome here")
 else :
   print(f"Hello {user_Name}, welcome the arc coffee shop!")
 
