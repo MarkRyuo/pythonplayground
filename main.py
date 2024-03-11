@@ -30,5 +30,8 @@ user_Pass = input("Enter your password: ")
 if user_Name == "Yohan" or user_Name == "Gilbert" or user_Name == "Bernard" :
   user_Identity = print("Are you Evil? ")
   if user_Identity == "Yes" :
-   print(f"{user_Name}, Your not welcome here!!!!")
+    user_Clarify = input("How many good way you have?: ")
+    if user_Clarify < 3 :
+      print(f"{user_Name}, Your not welcome here!!!!")
+
 
