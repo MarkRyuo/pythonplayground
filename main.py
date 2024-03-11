@@ -33,5 +33,7 @@ if user_Name == "Yohan" or user_Name == "Gilbert" or user_Name == "Bernard" :
     user_Clarify = input("How many good way you have?: ")
     if user_Clarify < 3 :
       print(f"{user_Name}, Your not welcome here!!!!")
+else :
+  print(f"Hello {user_Name}, welcome the arc coffee shop!")
 
 
