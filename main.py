@@ -16,4 +16,6 @@
 #   print("Please come in") 
 
 
-print("Welcome to Arc School \ng")
+print("Welcome to Arc Coffee Shop \n")
+
+# Create a log-in
