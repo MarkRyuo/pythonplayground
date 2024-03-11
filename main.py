@@ -32,7 +32,7 @@ if user_Name == "Lily" or user_Name == "Gilbert" or user_Name == "Bernard" :
   if user_Identity == "Yes" :
     user_Clarify = int(input("How many good way you have?: "))
     if user_Clarify < 3 :
-      print(f"{user_Name}, Your not welcome here!!!!")
+      print(f"{user_Name}, You're not welcome here!!!!")
 else :
   print(f"Hello {user_Name}, welcome the arc coffee shop!")
 
