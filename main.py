@@ -22,3 +22,4 @@ print("Welcome to Arc Coffee Shop \n")
 # Username && Password 
 
 user_Name = input("Enter your username: ")
+user_Pass = input("Enter your password: ")
