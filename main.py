@@ -28,7 +28,7 @@ user_Pass = input("Enter your password: ")
 # Lily, Gilbert, Bernard 
 
 if user_Name == "Lily" or user_Name == "Gilbert" or user_Name == "Bernard" :
-  user_Identity = print("Are you Evil? ")
+  user_Identity = print("Are you Evil? (Yes/No) : ")
   if user_Identity == "Yes" :
     user_Clarify = int(input("How many good way you have?: "))
     if user_Clarify < 3 :
