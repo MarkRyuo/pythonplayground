@@ -23,3 +23,6 @@ print("Welcome to Arc Coffee Shop \n")
 
 user_Name = input("Enter your username: ")
 user_Pass = input("Enter your password: ")
+
+# List of Evil Customer 
+# Yohan, Gilbert, 
