@@ -28,12 +28,12 @@ user_Pass = input("Enter your password: ")
 # Lily, Gilbert, Bernard 
 
 if user_Name == "Lily" or user_Name == "Gilbert" or user_Name == "Bernard" :
-  user_Identity = print("Are you Evil? (Yes/No) : ")
-  if user_Identity == "Yes" :
-    user_Clarify = int(input("How many good ways do you have?: "))
-    if user_Clarify < 3 :
-      print(f"{user_Name}, You're not welcome here!!!!")
-      exit()
+    user_Identity = input("Are you Evil? (Yes/No) : ")
+    if user_Identity == "Yes" :
+      user_Clarify = int(input("How many good ways do you have?: "))
+      if user_Clarify < 3 :
+       print(f"{user_Name}, You're not welcome here!!!!")
+       exit()
 else :
   print(f"Hello {user_Name}, welcome the arc coffee shop!")
 
