@@ -44,5 +44,7 @@ else :
 # I use Array here g
 list = ["Espresso", "Cappuccino", "Latte", "Americano", "Mocha"] 
 
-print(f"This is the list of Coffee's {list}")
+print(f"This is the list of Coffee's {list}\n") 
+
+choose = input("")
 
