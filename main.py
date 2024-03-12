@@ -27,7 +27,7 @@ user_Pass = input("Enter your password: ")
 # List of Evil Customer 
 # Lily, Gilbert, Bernard 
 
-if user_Name == "Lily" or user_Name == "Gilbert" or user_Name == "Bernard" :
+if user_Name == "Lily" or user_Name == "Gilbert" or user_Name == "Bernard" : # using Logical Operator
     user_Identity = input("Are you Evil? (Yes/No) : ")
     if user_Identity == "Yes" or user_Identity == "No" :
       user_Clarify = int(input("How many good ways do you have?: "))
