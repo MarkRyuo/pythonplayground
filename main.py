@@ -42,5 +42,7 @@ else :
 # List of coffee's 
 
 # I use Array here g
-list = ["Espresso", "Cappuccino", "Latte", "Americano", "Mocha"]
+list = ["Espresso", "Cappuccino", "Latte", "Americano", "Mocha"] 
+
+print(f"This is the list of Coffee's {list}")
 
