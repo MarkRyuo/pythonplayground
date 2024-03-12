@@ -40,8 +40,9 @@ else :
   print(f"Hello {user_Name}, welcome the arc coffee shop!\n \n")
 
 # List of coffee's 
-  
-print("List of Coffee's : \n 1:  ")
+
+# I use Array here g
+list = ["Espresso, Cappuccino, Latte, Americano, Mocha"]
 
 
 
