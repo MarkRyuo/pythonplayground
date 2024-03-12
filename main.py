@@ -44,5 +44,3 @@ else :
 # I use Array here g
 list = ["Espresso", "Cappuccino", "Latte", "Americano", "Mocha"]
 
-print(list[0])
-
