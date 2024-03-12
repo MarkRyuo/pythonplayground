@@ -48,6 +48,7 @@ print(f"This is the list of Coffee's {list}\n")
 
 choose = input("What Coffee you love?: ")
 quantity = int(input("How many?: "))
+
 # I use if statement and elif 
 
 if choose == "Espresso" :
