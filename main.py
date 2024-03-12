@@ -55,7 +55,7 @@ if choose == "Espresso" :
   print(f"Your order is {list[0]}")
   price = 50 
   total = price * quantity
-  print(f"The price of {list[0]} is {price} per 1 and you ordered {quantity}, the total is {total}") 
+  print(f"The price of {list[0]} is {price} per 1 and you ordered {quantity}, the total is ₱{total}.00") 
 else :
   print("null") 
    
