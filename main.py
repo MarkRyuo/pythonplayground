@@ -58,4 +58,6 @@ if choose == "Espresso" :
   print(f"The price of {list[0]} is {price} per 1 and you ordered {quantity}, the total is ₱{total}.00") 
 else :
   print("null") 
+
+#Todo Need multiple Elif need 
    
