@@ -37,10 +37,11 @@ if user_Name == "Lily" or user_Name == "Gilbert" or user_Name == "Bernard" :
       else :
         print(f"{user_Name}, Sorry for mistake your good your welcome here")
 else :
-  print(f"Hello {user_Name}, welcome the arc coffee shop!")
+  print(f"Hello {user_Name}, welcome the arc coffee shop!\n \n")
 
 # List of coffee's 
   
+print
 
 
 
