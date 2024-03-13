@@ -85,4 +85,4 @@ else :
 addAnother = input("Add Coffee: ")
 list.append(addAnother) 
 
-print(list[5])
+print(list)
