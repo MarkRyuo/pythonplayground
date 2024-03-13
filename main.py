@@ -72,9 +72,10 @@ elif choose == "Americano" :
   total = price * quantity
   print(f"The price of {list[3]} is {price} per 1 and you ordered {quantity}, the total is ₱{total}.00")
 elif choose == "Mocha" :
-  print(f"Your order is {list[3]}")
+  print(f"Your order is {list[4]}")
   price = 50 
   total = price * quantity
+
 else :
   print("null") 
 
