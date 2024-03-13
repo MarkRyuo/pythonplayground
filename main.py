@@ -85,6 +85,6 @@ else :
   
 addAnother = input("Add Coffee: ")
 # list.append(addAnother) #add in last
-list.insert(3, addAnother)
+list.insert(3, addAnother) # add in index 3 the new add coffee 
  
 print(list)
