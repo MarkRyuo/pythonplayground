@@ -82,4 +82,6 @@ else :
 # Todo Need multiple Elif need ✅
 #Todo Need Upgrade here 
 
-addAnother = input("Add Coffee: ")  
+addAnother = input("Add Coffee: ")
+list.append(addAnother) 
+
