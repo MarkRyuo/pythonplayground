@@ -56,6 +56,11 @@ if choose == "Espresso" :
   price = 50 
   total = price * quantity
   print(f"The price of {list[0]} is {price} per 1 and you ordered {quantity}, the total is ₱{total}.00") 
+elif choose == "Cappuccino" :
+  print(f"Your order is {list[1]}")
+  price = 50 
+  total = price * quantity
+  print(f"The price of {list[1]} is {price} per 1 and you ordered {quantity}, the total is ₱{total}.00") 
 else :
   print("null") 
 
