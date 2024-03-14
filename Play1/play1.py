@@ -267,35 +267,35 @@
 # else : 
 #   print(f"{product_use}, is not on the List")
 
-user_Name = input("What's your name? : ")  # question for the name
-user_Identity = "Mason, Labor, Carpenter" # list of work
+# user_Name = input("What's your name? : ")  # question for the name
+# user_Identity = "Mason, Labor, Carpenter" # list of work
 
-print(f"What are you here: {user_Identity} ") 
+# print(f"What are you here: {user_Identity} ") 
 
-question1 = input("What are you? ") # question 1 
-daysOfWork = int(input("How many days? ")) # Days of Work  
+# question1 = input("What are you? ") # question 1 
+# daysOfWork = int(input("How many days? ")) # Days of Work  
 
-print(f"\n Thank you for fill up: {question1} {user_Name} ")
+# print(f"\n Thank you for fill up: {question1} {user_Name} ")
 
-# Todo Nested If
-if question1 == "Mason" : 
-  mason = 700
-  if "Mason" : 
-    totalOfMason = mason * daysOfWork 
-    print(f"You are {daysOfWork} days and your total is ₱{totalOfMason} pesos ")
-elif question1 == "Labor" :
-  labor = 450 
-  if "Labor" :
-    totalOfLabor = labor * daysOfWork 
-    print(f"You are {daysOfWork} days and your total is ₱{totalOfLabor} pesos ")
-elif question1 == "Carpenter" :
-  carpenter = 630
-  if "Carpenter" :
-    totalOfCarpenter = carpenter * daysOfWork 
-    print(f"You are {daysOfWork} days and your total is ₱{totalOfCarpenter} pesos ")
+# # Todo Nested If
+# if question1 == "Mason" : 
+#   mason = 700
+#   if "Mason" : 
+#     totalOfMason = mason * daysOfWork 
+#     print(f"You are {daysOfWork} days and your total is ₱{totalOfMason} pesos ")
+# elif question1 == "Labor" :
+#   labor = 450 
+#   if "Labor" :
+#     totalOfLabor = labor * daysOfWork 
+#     print(f"You are {daysOfWork} days and your total is ₱{totalOfLabor} pesos ")
+# elif question1 == "Carpenter" :
+#   carpenter = 630
+#   if "Carpenter" :
+#     totalOfCarpenter = carpenter * daysOfWork 
+#     print(f"You are {daysOfWork} days and your total is ₱{totalOfCarpenter} pesos ")
 
-else :
-  print("Not Defined")
+# else :
+#   print("Not Defined")
   
   
 
