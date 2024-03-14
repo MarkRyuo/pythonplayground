@@ -84,7 +84,6 @@ else :
 # todo update add if add 
   
 addAnother = input("Add Coffee: ")
-list.extend(addAnother)
 # list.append(addAnother) #add in last
 # list.insert(3, addAnother) # add in index 3 the new add coffee 
  
