@@ -297,7 +297,7 @@
 # else :
 #   print("Not Defined")
   
-  
+f = open("./main.py", "t")
 
 
 
