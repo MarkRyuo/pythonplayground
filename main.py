@@ -92,3 +92,7 @@
 atuple = ("Jhon Mark", 21 , "01/19/03") 
 
 print(type(atuple)) 
+
+aarray = ["Jhon Mark", 21 , "01/19/03"] 
+
+print(type(aarray))
