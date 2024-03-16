@@ -18,5 +18,5 @@ list_of_coffee = (
   "Mocha"
 )  # Tuple here
 
-print(f"Menu: Espresso,\nCappuccino,\nLatte,\nAmericano,\nMocha")
+print(f"Menu:\nEspresso,\nCappuccino,\nLatte,\nAmericano,\nMocha")
 
