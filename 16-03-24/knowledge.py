@@ -9,7 +9,7 @@ if user_Age <= 10 :
 else :
   print(f"Hello {user_Name}, Welcome to the ARC mini Coffee shop \n \n")
   # If age is greater to 10 tutuloy  
-  
+
 list_of_coffee = (
   "Espresso", 
   "Cappuccino", 
@@ -18,5 +18,5 @@ list_of_coffee = (
   "Mocha"
 )  # Tuple here
 
-print(f"Menu: Espresso, Cappuccino, Latte, Americano, Mocha")
+print(f"Menu: Espresso,\n Cappuccino, \n Latte, \n Americano, \n Mocha")
 
