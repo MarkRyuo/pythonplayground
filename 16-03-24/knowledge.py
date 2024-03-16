@@ -3,6 +3,7 @@
 user_Name = input("Enter your name: ")
 user_Age = int(input("What is your age: \n"))
 
+# Condition if age is less than or equal to 10 : too young to drink coffee
 if user_Age <= 10 : 
   print(f"Your {user_Age}, you're too young to drink coffee ")
   exit() 
