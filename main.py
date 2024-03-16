@@ -99,5 +99,9 @@
 
 atuple = ("Jhon Mark", 21 , "01/19/03") 
 
-(name, age, birthdate)
+(name, age, birthdate) = atuple 
+
+print(name)
+print(age)
+print(name)
 
