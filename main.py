@@ -89,10 +89,12 @@
  
 # print(list)
 
-atuple = ("Jhon Mark", 21 , "01/19/03") # tuple un-changeable
+# atuple = ("Jhon Mark", 21 , "01/19/03") # tuple un-changeable
 
-print(type(atuple)) 
+# print(type(atuple)) 
 
-aarray = ["Jhon Mark", 21 , "01/19/03"] # array changeable 
+# aarray = ["Jhon Mark", 21 , "01/19/03"] # array changeable 
 
-print(type(aarray))
+# print(type(aarray))
+
+
