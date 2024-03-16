@@ -45,8 +45,10 @@ list_of_coffee = (
 print(f"Menu:\nEspresso,\nCappuccino,\nLatte,\nAmericano,\nMocha")
 
 Order = input("What is your order?: ")
+quantity = int(input("How many?: "))
 
 # Todo here 
 if Order == "Espresso" : 
-  print(f"your order is ")
+  price = 30 
+  print(f"your order is {list_of_coffee[0]}")
 
