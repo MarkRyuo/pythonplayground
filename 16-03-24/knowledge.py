@@ -11,8 +11,10 @@ list_of_ban = {
 }
 
 if user_Name == "Sophia" or user_Name == "Liam" or user_Name == "Emma" or user_Name == "Noah" or user_Name == "Olivia":
-  #ask him/her if he evil 
-  user_Identity = input("Are you a Evil?: ")
+  #ask him/her if he evil // using nested loop  
+  user_Identity = input("Are you a Evil?(Yes/No): ") 
+  if user_Identity == "Yes" :
+    print(f"Hey {user_Name}, Your not welcome here")
 
 
 
