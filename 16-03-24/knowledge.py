@@ -15,6 +15,10 @@ if user_Name == "Sophia" or user_Name == "Liam" or user_Name == "Emma" or user_N
   user_Identity = input("Are you a Evil?(Yes/No): ") 
   if user_Identity == "Yes" :
     print(f"Hey {user_Name}, Your not welcome here")
+  elif user_Identity == "No": 
+    user_Check = int(input(f"How many good way you have now {user_Name}?: "))
+    if user_Check > 5 :
+      print(f"{user_Name} welcome to the Arc Mini Coffee shop ")
 
 
 
