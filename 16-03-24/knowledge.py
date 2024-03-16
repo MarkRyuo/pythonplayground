@@ -1,7 +1,7 @@
 # todo all knowledge to Network Chunk 
 
 user_Name = input("Enter your name: ")
-user_Age = int(input("What is your age: "))
+user_Age = int(input("What is your age: \n"))
 
 if user_Age <= 10 : 
   print(f"Your {user_Age}, you're too young to drink coffee ")
@@ -18,5 +18,5 @@ list_of_coffee = (
   "Mocha"
 )  # Tuple here
 
-print(f"Menu: Espresso,\n Cappuccino, \n Latte, \n Americano, \n Mocha")
+print(f"Menu: Espresso,\nCappuccino,\nLatte,\nAmericano,\nMocha")
 
