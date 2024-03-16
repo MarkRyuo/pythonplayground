@@ -21,3 +21,5 @@ list_of_coffee = (
 
 print(f"Menu:\nEspresso,\nCappuccino,\nLatte,\nAmericano,\nMocha")
 
+Order = input("What is your order?: ")
+
