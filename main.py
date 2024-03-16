@@ -89,7 +89,7 @@
  
 # print(list)
 
-atuple = ("Jhon Mark", 21 , "01/19/03") 
+atuple = ("Jhon Mark", 21 , "01/19/03") # tuple unchangeble
 
 print(type(atuple)) 
 
