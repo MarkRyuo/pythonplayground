@@ -35,11 +35,11 @@ else :
   # If age is greater to 10 tutuloy  
 
 list_of_coffee = (
-  "Espresso",  #  index 0 
-  "Cappuccino", #  1 
-  "Latte",  # 2 
+  "Espresso",   # index 0 
+  "Cappuccino", # 1 
+  "Latte",      # 2 
   "Americano",  # 3
-  "Mocha" # 4 
+  "Mocha"       # 4 
 )  # Tuple here
 
 print(f"Menu:\nEspresso,\nCappuccino,\nLatte,\nAmericano,\nMocha")
