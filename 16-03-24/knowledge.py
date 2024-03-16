@@ -50,5 +50,6 @@ quantity = int(input("How many?: "))
 # Todo here 
 if Order == "Espresso" : 
   price = 30 
+  total = price * quantity 
   print(f"your order is {list_of_coffee[0]}")
 
