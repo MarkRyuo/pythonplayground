@@ -24,7 +24,7 @@ if user_Name == "Sophia" or user_Name == "Liam" or user_Name == "Emma" or user_N
 else :
   print(f"Hello {user_Name}")
 
-user_Age = int(input("What is your age: \n"))
+user_Age = int(input("What is your age: "))
 
 # Condition if age is less than or equal to 10 : too young to drink coffee
 if user_Age <= 10 : 
