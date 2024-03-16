@@ -19,8 +19,8 @@ if user_Name == "Sophia" or user_Name == "Liam" or user_Name == "Emma" or user_N
     user_Check = int(input(f"How many good way you have now {user_Name}?: "))
     if user_Check > 5 :
       print(f"{user_Name} welcome to the Arc Mini Coffee shop ")
-
-
+    else :
+      print(f"{user_Name}, you're not welcome here")
 
 user_Age = int(input("What is your age: \n"))
 
