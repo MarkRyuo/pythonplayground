@@ -97,4 +97,7 @@
 
 # print(type(aarray))
 
+atuple = ("Jhon Mark", 21 , "01/19/03") 
+
+(name, age, birthdate)
 
