@@ -10,6 +10,10 @@ list_of_ban = {
   "Olivia",
 }
 
+if user_Name == "Sophia" or user_Name == "Liam" or user_Name == "Emma" or user_Name == "Noah" or user_Name == "Olivia":
+  #ask him/her if he evil 
+  user_Identity = input("Are you a Evil?: ")
+
 
 
 user_Age = int(input("What is your age: \n"))
