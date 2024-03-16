@@ -35,7 +35,7 @@ else :
   # If age is greater to 10 tutuloy  
 
 list_of_coffee = (
-  "Espresso", 
+  "Espresso",  #  index 0 
   "Cappuccino", 
   "Latte", 
   "Americano", 
@@ -48,4 +48,5 @@ Order = input("What is your order?: ")
 
 # Todo here 
 if Order == "Espresso" : 
+  print(f"your order is ")
 
