@@ -8,5 +8,12 @@ if user_Age < 10 :
 else :
   print(f"Hello {user_Name}, Welcome to the ARC mini Coffee shop \n")
 
-list_of_coffee = []
+list_of_coffee = (
+  "Espresso", 
+  "Cappuccino", 
+  "Latte", 
+  "Americano", 
+  "Mocha"
+)  # Tuple here
+
 
