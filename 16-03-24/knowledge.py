@@ -1,6 +1,17 @@
 # todo all knowledge to Network Chunk 
 
 user_Name = input("Enter your name: ")
+
+list_of_ban = {
+  "Sophia",
+  "Liam",
+  "Emma",
+  "Noah",
+  "Olivia",
+}
+
+
+
 user_Age = int(input("What is your age: \n"))
 
 # Condition if age is less than or equal to 10 : too young to drink coffee
@@ -22,4 +33,5 @@ list_of_coffee = (
 print(f"Menu:\nEspresso,\nCappuccino,\nLatte,\nAmericano,\nMocha")
 
 Order = input("What is your order?: ")
+
 
