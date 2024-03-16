@@ -1,4 +1,4 @@
-
+import list 
 
 # todo Logical Operator  (and, or , not )
 
@@ -99,11 +99,11 @@
 
 # print(type(aarray))
 
-atuple = ("Jhon Mark", 21 , "01/19/03") 
+# atuple = ("Jhon Mark", 21 , "01/19/03") 
 
-(name, age, birthdate) = atuple 
+# (name, age, birthdate) = atuple 
 
-print(name)
-print(age)
-print(birthdate) 
+# print(name)
+# print(age)
+# print(birthdate) 
 
