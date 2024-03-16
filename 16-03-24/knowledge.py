@@ -4,7 +4,8 @@ user_Name = print("Enter your name: ")
 user_Age = int(print("What is your age: "))
 
 if user_Age < 10 : 
-  print(f"Your {user_Age}, you're too young ")
+  print(f"Your {user_Age}, you're too young to drink coffee ")
+  exit() 
 else :
   print(f"Hello {user_Name}, Welcome to the ARC mini Coffee shop \n \n")
 
