@@ -107,4 +107,6 @@ import list
 # print(age)
 # print(birthdate) 
 
+username = "jhon mark"
 
+print(username.upper())
