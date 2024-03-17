@@ -69,6 +69,7 @@ elif Order == "Mocha" :
   total = price * quantity 
   print(f"Your order is {quantity} pcs of {list_of_coffee[4]}, total of {total}. ")
 else :
-  print()
+  print(f"{Order} is not in the list")
+  
 
  
