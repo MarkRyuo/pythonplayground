@@ -114,4 +114,4 @@ import list
 
 user = "jhon mark"
 
-print(user[0].upper())
+print(user[0].upper() + user[1:])
