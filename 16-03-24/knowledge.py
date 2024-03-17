@@ -62,4 +62,5 @@ elif Order == "Latte" :
   print(f"Your order is {quantity} pcs of {list_of_coffee[2]}, total of {total}. ")
 elif Order == "Americano" :
   price = 40 
-  total = price *
+  total = price * quantity 
+  
