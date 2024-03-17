@@ -64,4 +64,7 @@ elif Order == "Americano" :
   price = 40 
   total = price * quantity 
   print(f"Your order is {quantity} pcs of {list_of_coffee[3]}, total of {total}. ")
-elif Order == "Mocha"
+elif Order == "Mocha" :
+  price = 50 
+  total = price * quantity 
+  
