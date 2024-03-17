@@ -53,4 +53,5 @@ if Order == "Espresso" :
   total = price * quantity 
   print(f"Your order is {quantity} pcs of {list_of_coffee[0]}, total of {total}. ")
 elif Order == "Cappuccino" :
+  price = 35 
   
