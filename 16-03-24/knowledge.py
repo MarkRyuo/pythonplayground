@@ -2,13 +2,13 @@
 
 user_Name = input("Enter your name: ")
 
-list_of_ban = {
+list_of_ban = [
   "Sophia",
   "Liam",
   "Emma",
   "Noah",
   "Olivia",
-}
+]
 
 if user_Name == "Sophia" or user_Name == "Liam" or user_Name == "Emma" or user_Name == "Noah" or user_Name == "Olivia":
   #ask him/her if he evil // using nested loop  
@@ -72,11 +72,11 @@ else :
   print(f"{Order} is not in the list or Spelling is not accurate!") 
   
 
-add = input("Are you going to add Coffee?(y/n): ")
+add = input("Are you going admin?(y/n): ")
 
 if add == "y" :
-  add_Coffee = input("What Coffee?: ") 
-  list_of_coffee.append(add_Coffee)
+  add_ban = input("Who is the ban?: ") 
+  list_of_ban.append(add_ban)
 else :
   exit()
 
