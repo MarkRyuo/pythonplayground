@@ -75,6 +75,6 @@ else :
 add = input("Are you going to add Coffee?(y/n): ")
 
 if add == "y" :
-  add_Coffee = input("What Coffee?")
+  add_Coffee = input("What Coffee?: ")
 
  
