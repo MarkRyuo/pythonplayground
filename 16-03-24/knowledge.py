@@ -76,7 +76,7 @@ add = input("Are you going to add Coffee?(y/n): ")
 
 if add == "y" :
   add_Coffee = input("What Coffee?: ") 
-  add_Coffee.push(list_of_coffee)
+  add_Coffee.append(list_of_coffee)
 else :
   exit()
 
