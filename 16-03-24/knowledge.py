@@ -77,6 +77,7 @@ add = input("Are you going admin?(y/n): ")
 if add == "y" :
   add_ban = input("Who is the ban?: ") 
   list_of_ban.append(add_ban)
+  print(list_of_ban)
 else :
   exit()
 
