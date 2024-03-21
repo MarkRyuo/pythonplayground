@@ -24,5 +24,6 @@ list_of_Coffee = {
   "Americano"
 }
 
+coffee_List = "" 
 #Do you want to see the list of Coffee 
-while 
+while list_of_Coffee == 
