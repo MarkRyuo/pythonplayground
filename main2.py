@@ -26,4 +26,5 @@ list_of_Coffee = {
 
 coffee_List = "" 
 #Do you want to see the list of Coffee 
-while list_of_Coffee == 
+while coffee_List == 0 :
+  coffee_List = input("Do you want to see the list of coffee")  
