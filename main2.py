@@ -9,3 +9,9 @@
 # Todo Coffee shop
 
 # Ask question to Customer
+
+customer_name = "" 
+
+while len(customer_name) == 0 :
+  customer_name = input("Enter your name: ")
+
