@@ -15,3 +15,4 @@ customer_name = ""
 while len(customer_name) == 0 :
   customer_name = input("Enter your name: ")
 
+print(f"Hello {customer_name}, Welcome to Arc Coffee shop")
