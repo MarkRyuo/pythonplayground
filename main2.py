@@ -36,6 +36,6 @@ customer_name = "" # Declare ng empty variable
 # if / else / elif - Conditional 
 # for loop - Looping 
 # while Loop - 
-# Nested if / loop -  
+# Nested if / loop -    
 # 
 
