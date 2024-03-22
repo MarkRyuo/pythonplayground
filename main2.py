@@ -10,7 +10,7 @@
 
 # Ask question to Customer
 
-customer_name = "" # Declare ng empty variable 
+#customer_name = "" # Declare ng empty variable 
 
 # while len(customer_name) == 0 :
 #   customer_name = input("Enter your name: ")
