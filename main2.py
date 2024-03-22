@@ -33,3 +33,7 @@ customer_name = "" # Declare ng empty variable
 
 # List - {} changeable 
 # Tuple - () unchangeable 
+# if / else / elif - Conditional 
+# for loop 
+# while 
+
