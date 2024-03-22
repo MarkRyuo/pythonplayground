@@ -31,4 +31,5 @@ customer_name = "" # Declare ng empty variable
 
 # print(f"Here the coffee list {list_of_Coffee} .")
 
-
+# List - {} changeable 
+# Tuple - () unchangeable 
