@@ -42,6 +42,9 @@
 list_of_character = {
     "Moda",
     "Nicole",
-    "Mark"
+    "Mark",
+    "Sopheya",
+    "Gyan",
+    "Samantha"
 }
 
