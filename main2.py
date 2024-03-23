@@ -58,7 +58,9 @@ list_of_unknown = ( # Tuple
     "Samantha"
 )
 
-if list_of_character == "Moda" :
-  list_of_unknown = list_of_unknown(0)
-  if list_of_character == list_of_unknown :
-    print()
+# list_of = list_of_character{0}
+
+# if list_of_character == "Moda" :
+#   list_of_unknown = list_of_unknown(0)
+#   if list_of_character == list_of_unknown :
+#     print("HELLO")
