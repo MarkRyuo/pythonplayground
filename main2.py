@@ -75,5 +75,10 @@ def call_me (name) :
 call_me("Jhon Mark") 
 
 
+
 def call_me_be() :
-  
+    x = 5 
+    y = 10 
+    return x + y 
+
+call_me_be()
