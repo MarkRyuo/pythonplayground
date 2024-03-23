@@ -39,5 +39,9 @@
 # Nested if / loop -    
 # 
 
-
+list_of_character = {
+    "Moda",
+    "Nicole",
+    "Mark"
+}
 
