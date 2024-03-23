@@ -81,4 +81,6 @@ def call_me_be() :
     y = 10 
     return x + y 
 
-call_me_be()
+callbyme = call_me_be()
+
+print(callbyme)
