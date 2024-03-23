@@ -39,6 +39,7 @@
 # Nested if / loop -    
 # 
 
+
 list_of_character = { # List 
     "Moda",
     "Nicole",
@@ -48,3 +49,11 @@ list_of_character = { # List
     "Samantha"
 }
 
+list_of_unknown = ( # Tuple
+    "Moda",
+    "Nicole",
+    "Mark",
+    "Sopheya",
+    "Gyan",
+    "Samantha"
+)
