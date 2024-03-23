@@ -67,3 +67,8 @@
 
 # Todo Function def is the keyword 
 
+def call_me () : 
+  print(f"Hello you can call me")
+  
+
+call_me() 
