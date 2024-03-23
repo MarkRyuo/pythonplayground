@@ -37,7 +37,7 @@
 # for loop - Looping 
 # while Loop - 
 # Nested if / loop -    
-# 
+# Indent 
 
 
 # list_of_character = [ # List 
