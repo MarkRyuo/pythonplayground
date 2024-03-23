@@ -85,6 +85,8 @@
 
 # print(callbyme)
 
+name = ""
 
-while 
-user_Name = input("Enter your name: ")
+def username () :
+    while len(name) == 0 :
+    user_Name = input("Enter your name: ")
