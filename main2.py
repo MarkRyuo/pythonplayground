@@ -40,27 +40,27 @@
 # 
 
 
-list_of_character = [ # List 
-    "Moda",
-    "Nicole",
-    "Mark",
-    "Sopheya",
-    "Gyan",
-    "Samantha"
-]
+# list_of_character = [ # List 
+#     "Moda",
+#     "Nicole",
+#     "Mark",
+#     "Sopheya",
+#     "Gyan",
+#     "Samantha"
+# ]
 
-list_of_unknown = ( # Tuple
-    "Moda",
-    "Nicole",
-    "Mark",
-    "Sopheya",
-    "Gyan",
-    "Samantha"
-)
+# list_of_unknown = ( # Tuple
+#     "Moda",
+#     "Nicole",
+#     "Mark",
+#     "Sopheya",
+#     "Gyan",
+#     "Samantha"
+# )
 
-list_of_character = list_of_character[0]
+# list_of_character = list_of_character[0]
 
-if list_of_character == "Moda" :
-  list_of_unknown = list_of_unknown[0]
-  if list_of_character == list_of_unknown :
-    print("HELLO Moda")
+# if list_of_character == "Moda" :
+#   list_of_unknown = list_of_unknown[0]
+#   if list_of_character == list_of_unknown :
+#     print("HELLO Moda")
