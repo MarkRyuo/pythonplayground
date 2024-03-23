@@ -39,7 +39,7 @@
 # Nested if / loop -    
 # 
 
-list_of_character = {
+list_of_character = { # List 
     "Moda",
     "Nicole",
     "Mark",
