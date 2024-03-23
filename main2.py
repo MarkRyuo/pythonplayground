@@ -97,7 +97,8 @@ name = input("Enter your name")
 
 def username(name) :
   
-  while len(name) == 0
+  while len(name) == 0 :
+    
   
 useras = username() 
 
