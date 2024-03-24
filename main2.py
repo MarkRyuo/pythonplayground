@@ -112,3 +112,7 @@ def username() :
   else :
     result = "Hello user❤️"
   return result
+
+user = username() 
+
+print(user)
