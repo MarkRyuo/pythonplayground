@@ -116,3 +116,8 @@
 # user = username() 
 
 # print(user)
+
+def username(name) :
+  print(f"Hello {name}")
+
+username("Jhon Mark")
