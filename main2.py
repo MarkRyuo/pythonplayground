@@ -126,6 +126,7 @@
 # username("Nicole")
 
 listOf = ["Jhon Mark", "Nicole", "Moda"]
+tupleOf = ("Jhon Mark", "Nicole", "Moda")
 
 if "Jhon Mark" in listOf :
   print(f"Hello {listOf[0]}")
