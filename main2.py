@@ -125,6 +125,7 @@
 # username("Mark")
 # username("Nicole")
 
-listOf = ["Jhon Mark", ]
+listOf = ["Jhon Mark", "Nicole", "Moda"]
 
-def 
+if "Jhon Mark" in listOf :
+  print(f"Hello {listOf[0]}")
