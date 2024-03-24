@@ -119,8 +119,8 @@
 
 # Function is a reusable 
 
-def username(name) :
-  print(f"Hello {name}")
+# def username(name) :
+#   print(f"Hello {name}")
 
-username("Mark")
-username("Nicole")
+# username("Mark")
+# username("Nicole")
