@@ -106,5 +106,8 @@
 
 
 def username() :
-  user = input("Enter your name: ")
-  if len
+  user = "Name"
+  if len(user) == 0 :
+    result = "User is No name"
+  else :
+    result = "Hello user❤️"
