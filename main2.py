@@ -131,4 +131,4 @@ tupleOf = ("Jhon Mark", "Nicole", "Moda")
 name = input(f" {listOf} || Choose a character here: ")
 
 if name in listOf :
-  print(f"Hello {name}")
+  print(f"Hello {nameJho}")
