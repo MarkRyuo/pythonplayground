@@ -108,7 +108,7 @@
 def username() :
   user = "Name"
   if len(user) == 0 :
-    result = "User is No name"
+    result = "User is No name✅"
   else :
     result = "Hello user❤️"
   return result
