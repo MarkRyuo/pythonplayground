@@ -121,3 +121,4 @@ def username(name) :
   print(f"Hello {name}")
 
 username("Jhon Mark")
+username("Nicole")
