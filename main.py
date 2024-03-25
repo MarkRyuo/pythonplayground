@@ -3,7 +3,13 @@
 
 # Todo create log-in for user, admin and staff / employee 
 
-list_of_user = ["user1", "user2", "user3", "user4", "user5"] # List 
+list_of_user = [
+  "user1",
+  "user2",
+  "user3", 
+  "user4", 
+  "user5"
+] # List 
 list_of_employee = ["user1", "user2", "user3", "user4", "user5"] # List 
 
 list_of_admin = ("admin1", "admin2", "admin3", "admin4") # Tuple
