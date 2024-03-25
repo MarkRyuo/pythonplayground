@@ -10,6 +10,7 @@ list_of_user = [
   "user4", 
   "user5"
 ] # List 
+
 list_of_employee = [
   "user1",
   "user2",
@@ -18,6 +19,11 @@ list_of_employee = [
   "user5"
 ] # List 
 
-list_of_admin = ("admin1", "admin2", "admin3", "admin4") # Tuple
+list_of_admin = (
+  "admin1",
+  "admin2",
+  "admin3",
+  "admin4"
+) # Tuple
 
   
