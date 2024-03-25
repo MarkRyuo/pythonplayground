@@ -26,4 +26,4 @@ list_of_admin = (
   "admin4"
 ) # Tuple
 
-  
+user = input("Are you ? Pick 1: (user, staff, Employee)")
