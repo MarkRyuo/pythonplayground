@@ -30,4 +30,4 @@ user = input("Are you ? Pick 1: (user, staff, Employee): ")
 
 if user == "user" :
   print("Log in to user")
-  username = input("")
+  username = input("Enter your username: ")
