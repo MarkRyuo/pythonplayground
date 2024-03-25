@@ -31,3 +31,6 @@ user = input("Are you ? Pick 1: (user, staff, Employee): ")
 if user == "user" :
   print("Log in to user")
   username = input("Enter your username: ")
+  password = input("Enter your password: ")
+  if username == "user1" :
+    
