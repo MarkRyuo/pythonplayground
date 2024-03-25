@@ -28,16 +28,14 @@ list_of_admin = (
 
 userin = ""
 
-def userOf() :
-  while userin == 0 :
-    user = input("Are you ? Pick 1: (user, staff, Employee): ")
-  return user 
 
-user = userOf()
+while userin == 0 :
+    user = input("Are you ? Pick 1: (user, staff, Employee): ")
+
 
 if user == "user" :
   print("Log in to user")
   username = input("Enter your username: ")
   password = input("Enter your password: ")
-  if username == "user1" :
+  # if username == "user1" :
     
