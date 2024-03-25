@@ -28,9 +28,15 @@ list_of_admin = (
 
 user = input("Are you ? Pick 1: (user, staff, Employee): ")
 
+
+def userOf() :
+  username = input("Enter your username: ")
+  password = input("Enter your password: ")
+  
+  return username and password 
+
 if user == "user" :
   print("Log in to user")
   username = input("Enter your username: ")
   password = input("Enter your password: ")
   if username == "user1" :
-    
