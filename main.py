@@ -26,14 +26,12 @@ list_of_admin = (
   "admin4"
 ) # Tuple
 
-user = input("Are you ? Pick 1: (user, staff, Employee): ")
-
+user = ""
 
 def userOf() :
-  username = input("Enter your username: ")
-  password = input("Enter your password: ")
-  
-  return username and password 
+  while user == 0 :
+    user = input("Are you ? Pick 1: (user, staff, Employee): ")
+  return user 
 
 if user == "user" :
   print("Log in to user")
