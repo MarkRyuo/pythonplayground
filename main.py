@@ -5,3 +5,8 @@ import users
 # Log In 
 
 # while loop 
+
+users = "" 
+
+while len(users) == 0 :
+   users = input("Input your username: ")
