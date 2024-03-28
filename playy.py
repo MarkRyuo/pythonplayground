@@ -11,4 +11,4 @@
 # (1, 2)
 
 for number in range(1, 5) :
-  print(number * ".") 
+  print("Attempt",number, number * "*") 
