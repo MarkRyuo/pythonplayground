@@ -5,3 +5,8 @@ import users
 # Log In 
 
 username = input("Enter the username: ")
+
+user1 = "" 
+
+if username == user1.name["name"] :
+    print(f"Hello {user1.name["name"]}")
