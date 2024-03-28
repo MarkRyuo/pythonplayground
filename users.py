@@ -4,5 +4,6 @@
 user1 = {
   "name" : "Jhon Mark",
   "age" : 19,
-  "address" : "Cumba Lipa City " 
+  "address" : "Cumba Lipa City",
+  "online" : True
 }
