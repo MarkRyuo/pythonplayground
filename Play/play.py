@@ -7,4 +7,5 @@ person = {
 }
 
 def user_Person(person) :
-  login = 
+  login = person["name"]
+  online = person["online"]
