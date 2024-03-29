@@ -5,3 +5,6 @@ person = {
   "askOf" : print("Konichiwa Jhon Mark Desu!")
 
 }
+
+def user_Person(person) :
+  login = 
