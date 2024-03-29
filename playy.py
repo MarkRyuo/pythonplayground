@@ -10,5 +10,5 @@
 # (1, 1)
 # (1, 2)
 
-for number in range(1, 5) :
-  print("Attempt",number, number * "*") 
+# for number in range(1, 5) :
+#   print("Attempt",number, number * "*") 
