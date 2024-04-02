@@ -32,4 +32,5 @@ character2 = {
 character = "" ;
 
 while len(character) == 0 :
+  _NameOfCharacter = input("Enter a name: ")
   
