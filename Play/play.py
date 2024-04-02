@@ -23,5 +23,6 @@ character1 = {
 
 character2 = {
   "name" : "Nicole",
-  "age" :
+  "age" : 18,
+  "status" : True 
 }
