@@ -29,3 +29,7 @@ character2 = {
 
 # name , age , status 
 
+character = "" ;
+
+while len(character) == 0 :
+  
