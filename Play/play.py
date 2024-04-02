@@ -37,4 +37,7 @@ while len(character) == 0 :
 print(f"Hello {character}") 
 
 
-character = input("Enter your name: ") 
+character = input("Enter your name: ")
+
+while not character :
+  character = input("Enter your name: ") 
