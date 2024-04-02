@@ -33,4 +33,5 @@ character = "" ;
 
 while len(character) == 0 :
   _NameOfCharacter = input("Enter a name: ")
-  
+
+print(f"Hello {_NameOfCharacter}")  
