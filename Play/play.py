@@ -21,3 +21,7 @@ character1 = {
   "status" : True  
 }
 
+character2 = {
+  "name" : "Nicole",
+  "age" :
+}
