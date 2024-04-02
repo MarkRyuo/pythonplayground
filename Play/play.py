@@ -26,3 +26,6 @@ character2 = {
   "age" : 18,
   "status" : True 
 }
+
+# name , age , status 
+
