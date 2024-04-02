@@ -32,6 +32,6 @@ character2 = {
 character = "" ;
 
 while len(character) == 0 :
-  _NameOfCharacter = input("Enter a name: ")
+  character = input("Enter a name: ")
 
-print(f"Hello {_NameOfCharacter}")  
+print(f"Hello {character}")  
