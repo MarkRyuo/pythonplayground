@@ -18,5 +18,6 @@
 character1 = {
   "name": "Mark",
   "age" : 18,
-  "" 
+  "status" : True  
 }
+
