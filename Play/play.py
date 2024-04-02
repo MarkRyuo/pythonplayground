@@ -34,4 +34,7 @@ character = "" ;
 while len(character) == 0 :
   character = input("Enter a name: ")
 
-print(f"Hello {character}")  
+print(f"Hello {character}") 
+
+
+character = input("Enter your name: ") 
