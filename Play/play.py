@@ -29,15 +29,16 @@ character2 = {
 
 # name , age , status 
 
-character = "" ;
+# character = "" ;
 
-while len(character) == 0 :
-  character = input("Enter a name: ")
+# while len(character) == 0 :
+#   character = input("Enter a name: ")
 
-print(f"Hello {character}") 
+# print(f"Hello {character}") 
 
 
 character = input("Enter your name: ")
 
 while not character :
-  character = input("Enter your name: ") 
+  character = input("Enter your name: ")
+print(f"Hello {character}") 
