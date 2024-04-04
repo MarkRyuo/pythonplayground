@@ -1,4 +1,3 @@
+from car import Car
 # OOP - 
 
-class Car: 
-  pass

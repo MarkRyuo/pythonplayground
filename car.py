@@ -1,2 +1,7 @@
 class Car :
-  pass 
+  
+  make = None
+  model = None 
+  year = None
+  color = None 
+  
