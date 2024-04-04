@@ -5,3 +5,5 @@ house1 = {
   "number_of_people" : 5 ,
   "online" : True
 }
+
+print(house1.color_House)
