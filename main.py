@@ -1,4 +1,6 @@
 from car import Car
+# FROM car.py THE the class Car
+
 # OOP - 
 
 car_1 = Car("Honda Beast", "Honda", "2021", "red")
