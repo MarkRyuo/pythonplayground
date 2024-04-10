@@ -5,8 +5,10 @@
 # set {} - Unchangeable 
 # dict {"name": "Jhon Mark"} - Changeable 
 
-thislist  = ["apple", "mango", "cherry"]
+def thisislist() :
+  thislist  = ["apple", "mango", "cherry"]
 
 #add item in list 
-addinlist = input("Enter a fruit: ")
-thislist.append(addinlist)
+  addinlist = input("Enter a fruit: ")
+  thislist.append(addinlist)
+  print()
