@@ -1,4 +1,5 @@
 
 # Todo Arrays 
 # list [] - Changeable 
-# tuple ()
+# tuple () - Unchangeable 
+# set {} - 
