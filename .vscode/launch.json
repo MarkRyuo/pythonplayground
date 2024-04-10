@@ -9,7 +9,6 @@
       "type": "debugpy",
       "request": "launch",
       "program": "${file}",
-      "python": "C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
       "console": "integratedTerminal"
     }
   ]
