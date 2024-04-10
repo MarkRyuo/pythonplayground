@@ -1,2 +1,4 @@
-# list []
-# 
+
+# Todo Arrays 
+# list [] - Changeable 
+# tuple ()
