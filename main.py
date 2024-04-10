@@ -7,4 +7,5 @@
 
 thislist  = ["apple", "mango", "cherry"]
 
-print(thislist)
+#add item in list 
+addinlist = input("Enter a fruit: ")
