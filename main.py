@@ -7,8 +7,8 @@
 
 def thisislist() :
   thislist  = ["apple", "mango", "cherry"]
-
+  print(f"List of fruits")
 #add item in list 
   addinlist = input("Enter a fruit: ")
   thislist.append(addinlist)
-  print()
+  print(f"New list of fruits: {thisislist} ")
