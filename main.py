@@ -9,3 +9,4 @@ thislist  = ["apple", "mango", "cherry"]
 
 #add item in list 
 addinlist = input("Enter a fruit: ")
+thislist.append[addinlist] 
