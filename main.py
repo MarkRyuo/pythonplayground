@@ -12,3 +12,5 @@ def thisislist() :
   addinlist = input("Enter a fruit: ")
   thislist.append(addinlist)
   print(f"New list of fruits: {thisislist} ")
+
+thisislist()
