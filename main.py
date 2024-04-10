@@ -2,4 +2,5 @@
 # Todo Arrays 
 # list [] - Changeable 
 # tuple () - Unchangeable 
-# set {} - 
+# set {} - Unchangeable 
+# dict {"name": "Jhon Mark"} - Changeable 
