@@ -6,3 +6,5 @@
 # dict {"name": "Jhon Mark"} - Changeable 
 
 thislist  = ["apple", "mango", "cherry"]
+
+print(thislist)
